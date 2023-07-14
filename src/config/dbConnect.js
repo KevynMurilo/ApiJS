@@ -1,6 +1,6 @@
 import mongoose from "mongoose"
 
-mongoose.connect("mongodb+srv://<url-do-servidor-atlas>");
+mongoose.connect("mongodb+srv://<USERNAME>:<PASSWORD>@<HOST>/<DATABASE>");
 
 let db = mongoose.connection;
 
