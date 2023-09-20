@@ -17,11 +17,11 @@ Siga as etapas abaixo para executar o aplicativo:
 
 1. Clone o repositório para o seu ambiente local:
 
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/KevynMurilo/LivrariaNode.git>
 
 2. Navegue até o diretório do projeto:
  
-cd <NOME_DO_DIRETORIO>
+cd <https://github.com/KevynMurilo/LivrariaNode.git>
 
 
 3. Instale as dependências necessárias executando o seguinte comando:
